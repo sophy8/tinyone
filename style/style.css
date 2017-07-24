@@ -1,0 +1,306 @@
+*
+{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.container
+{
+	width: 1415px;
+}
+.first_part
+{
+	background-color: #fcdb00;
+	height: 742px;
+	width: 1415px;
+}
+.menu
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 0.91;
+	margin-left: 555px;
+	margin-top: 77px;
+	position: relative;
+	text-align: left;
+}
+.nav-link
+{
+	color: black;
+}
+nav>a
+{
+	margin-top: 70px;
+	position: absolute;
+}
+.carousel-caption>img
+{
+	float: right;
+}
+.f_text
+{
+	margin-bottom: 200px;
+	margin-left: 150px;
+}
+.inspire
+{
+	color: #010101;
+	font-family: PTSans;
+	font-size: 26px;
+	font-weight: bold;
+	height: 30px;
+	margin-top: 150px;
+	position: relative;
+	text-align: left;
+	width: 314px;
+}
+.simple
+{
+	color: #313841;
+	font-family: PTSans;
+	font-size: 20px;
+	height: 43px;
+	line-height: 1.2;
+	margin-top: 23px;
+	text-align: left;
+	width: 309px;
+}
+#carousel-example-generic>.carousel-indicators>li
+{
+	height: 12px;
+}
+.lorem
+{
+	color: #555555;
+	font-family: PTSans;
+	font-size: 16px;
+	line-height: 1.25;
+	margin-top: 23px;
+	text-align: left;
+}
+div.system
+{
+	margin-left: -180px;
+}
+a.left.carousel-control
+{
+	background: none;
+}
+a.right.carousel-control
+{
+	background: none;
+}
+.carousel-inner .item
+{
+	height: 600px;
+}
+.second_part
+{
+	background-color: white;
+	height: 790px;
+	width: 100%;
+}
+.header
+{
+	color: #010101;
+	font-family: PTSans;
+	font-size: 32px;
+	font-weight: bold;
+	height: 30px;
+	line-height: 1;
+	margin-left: 340px;
+	text-align: center;
+	width: 230px;
+}
+.parag
+{
+	color: #313841;
+	font-family: PTSans;
+	font-size: 20px;
+	height: 43px;
+	line-height: 1.2;
+	margin-left: 89px;
+	margin-top: 17px;
+	text-align: center;
+	width: 732px;
+}
+[class*="col-xs"]
+{
+	background-color: white;
+	border-right: 2px solid #fff;
+	font-size: 2rem;
+	height: 111px;
+	margin-top: 87px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	width: 269px;
+}
+
+.pic
+{
+	float: left;
+}
+.text
+{
+	margin-left: 86px;
+}
+.third_part
+{
+	background-color: #010101;
+	height: 1220px;
+	width: 1404px;
+}
+.keep
+{
+	color: #fcdb00;
+	font-family: PTSans;
+	font-size: 32px;
+	font-weight: bold;
+	height: 30px;
+	line-height: 1;
+	margin-left: 516px;
+	margin-top: 56px;
+	padding-top: 96px;
+	text-align: center;
+	width: 300px;
+}
+.p
+{
+	color: #898989;
+	font-family: PTSans;
+	font-size: 20px;
+	height: 63px;
+	line-height: 1.2;
+	margin-left: 335px;
+	margin-top: 17px;
+	padding-top: 17px;
+	text-align: center;
+	width: 732px;
+}
+form
+{
+	background-color: black;
+}
+input.form-control
+{
+	height: 50px;
+	margin-left: 335px;
+	margin-top: 51px;
+	width: 580px;
+}
+button.btn
+{
+	background-color: #fcdb00;
+	border: solid 2px #010101;
+	border-radius: 3.4px;
+	color: black;
+	height: 50px;
+	margin-left: 21px;
+	margin-top: 51px;
+	width: 126px;
+}
+.pinterest
+{
+	background-position: -33px 0;
+}
+.pinterest:hover
+{
+	background-position: 0 -39px;
+}
+.facebook
+{
+	background-position: 66px -66px;
+}
+.facebook:hover
+{
+	background-position: 0 -39px;
+}
+.twitter
+{
+	background-position: 66px -66px;
+}
+.twitter:hover
+{
+	background-position: 0 -39px;
+}
+.google
+{
+	background-position: 66px -66px;
+}
+.google:hover
+{
+	background-position: 0 -39px;
+}
+.menu1::after
+{
+	clear: both;
+	content: '';
+	display: block;
+}
+.menu1
+{
+	margin-left: 555px;
+}
+.menu_item
+{
+	float: left;
+	list-style: none;
+	margin-left: 33px;
+}
+.menu_link1
+{
+	background: url(/img/pinall.jpg) no-repeat;
+	display: block;
+	height: 36px;
+	transition: 1s;
+	width: 36px;
+}
+.menu_link2
+{
+	background: url(/img/%D1%84%D0%B1%D0%B0%D0%BB.jpg) no-repeat;
+	display: block;
+	height: 36px;
+	transition: 1s;
+	width: 36px;
+}
+.menu_link3
+{
+	background: url(/img/tvall.jpg) no-repeat;
+	display: block;
+	height: 36px;
+	transition: 1s;
+	width: 36px;
+}
+.menu_link4
+{
+	background: url(/img/gooall.jpg) no-repeat;
+	display: block;
+	height: 36px;
+	transition: 1s;
+	width: 36px;
+}
+.footer
+{
+	color: #ffffff;
+	display: flex;
+	flex-direction: row;
+	font-family: PTSans;
+	font-size: 16px;
+/*	height: 53px;*/
+	line-height: 1.25;
+/*	margin-left: 245px;*/
+	margin-top: 134px;
+	text-align: left;
+	width: 100%;
+   
+}
+.footer>div
+{
+	margin-right: 10%;
+    width: 5%;
+}
+.footer>div>ul>li>a
+{
+	color: white;
+    
+}
